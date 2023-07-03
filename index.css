@@ -117,7 +117,74 @@
     width: 40%;
     margin-left: 10%;
     margin-right: 15%;
-}
+} 
 /* Banner-sec end*/
 
+/* Card section start */
+.hd-container{
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.rcp-h1{
+    margin-bottom: 20px;
+}
+
+.rcp-p{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.card-container{
+    display: flex;
+    gap: 50px;
+    width: 80%;
+    padding-left: 400px;
+    padding-top: 20px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.card-1{
+    width: 300px;
+    border: 1px solid black;
+    padding-left: 13px;
+    padding-top: 10px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 35px rgb(121, 119, 119);
+
+}
+
+.card-2{
+    width: 300px;
+    border: 1px solid black;
+    padding-left: 13px;
+    padding-top: 10px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 35px rgb(121, 119, 119);
+}
+
+.card-1 img{
+    height: 250px;
+    width: 95%;
+}
+
+.card-2 img{
+    height: 250px;
+    width: 95%;
+}
+
+.cdttl-h4{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card-p{
+    margin-bottom: 15px;
+    padding-right: 10px;
+    font-size: 13px;
+}
+
+/* Card section end */
 
