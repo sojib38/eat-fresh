@@ -148,21 +148,21 @@
 
 .card-1{
     width: 300px;
-    border: 1px solid black;
+     
     padding-left: 13px;
     padding-top: 10px;
     border-radius: 15px;
-    box-shadow: 10px 10px 35px rgb(121, 119, 119);
+    box-shadow: 2px 2px 15px  gray;
 
 }
 
 .card-2{
     width: 300px;
-    border: 1px solid black;
+     
     padding-left: 13px;
     padding-top: 10px;
     border-radius: 15px;
-    box-shadow: 10px 10px 35px rgb(121, 119, 119);
+    box-shadow: 2px 2px 15px  gray;
 }
 
 .card-1 img{
@@ -188,3 +188,51 @@
 
 /* Card section end */
 
+
+
+/* Follwer section start */
+
+.flw-container{
+    display: flex;
+    height: 100px;
+    width: 80%;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 15px  gray;
+}
+
+.flw-1,.flw-2,.flw-3{
+    width: 33.5%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.flw-h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+/* Follwer section End */
+
+
+/* Footer section start */ 
+
+
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.frs-h1{
+    color: gray;
+}
+
+footer p{
+    padding-top: 40px;
+    color: white;
+}
+/* Footer section end */ 
